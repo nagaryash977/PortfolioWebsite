@@ -1,0 +1,9 @@
+Portfolio Website Details:
+
+1. This is the personal Portfolio Website, based on the Front-end and backend also.
+2. In the Fronted Technologies we use HTML, CSS, JavaScript.
+3. In the Backend Technologies we use Java.
+4. The Web Technologies are JSP and Servlets.
+5. The Database is MySQL.
+6. To setup the connection between the Application and Database, we use Java Database Connectivity (JDBC).
+7. It has secure admin panel for the user, to update, delete or add something.
